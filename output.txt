@@ -1,0 +1,123 @@
+1. Bank management
+2. ATM management
+3. Exit
+
+Enter Your Choice: 1
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 1
+
+
+                        Add New User
+Enter User ID:ri
+
+Enter First Name :Riya
+
+Enter Last Name :Sharma
+
+Enter Pin Code (5 digits) :34567
+
+Enter Password (5 characters):88888
+
+Enter Phone Number :456789
+
+Enter city :Delhi
+
+Enter balance :54000
+
+New user ID has been created
+
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 5
+
+                         Transfer Page
+Enter Sender User ID:abhi15
+
+Enter Reciever User ID:adi
+
+Enter amount to be transferred: 20000
+
+ Transaction done successfully...
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 3
+
+                        Deposit Amount
+Enter User ID:anjali12
+
+ Enter Amount to be deposited: 25000
+
+ Current updated balance: 37000
+
+
+                        Bank Management
+1. New User
+2. Existing User
+3. Deposit
+4. Withdraw
+5. Transfer
+6. Bill Payment
+7. Search User Record
+8. Edit User Record
+9. Delete User Record
+10. Show All Records
+11. All Payment Records
+12. Go To Menu
+
+Enter Your Choice: 6
+
+                         Bills payment option
+Enter User ID:abhi15
+
+
+ Bill Name: electrcity
+
+
+ Bill Amount: 7000
+
+
+electrcity Bill paid successfully
